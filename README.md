@@ -33,7 +33,7 @@
   <img align="center" src="Aquario.gif" alt="Imagem">
 </p>
 
-![snake gif](https://github.com/Lucca7r/Lucca7r/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](github-contribution-grid-snake-dark.svg)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
