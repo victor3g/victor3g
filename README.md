@@ -18,6 +18,7 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 23 years old, currently living in Brazil.
+  - <a href = "mailto:victorgomessc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </details>
 <br>
