@@ -12,11 +12,11 @@
 
   - 💼 Atualmente, estágiario no setor de monitoramento do <strong>Banco BRB!</strong>
 </p>
-<br>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
+  <br>
   - 🛠 O que me define?
     ➡︎ Paixão por tecnologia e resolução de problemas.
     ➡︎ Compromisso com o aprendizado contínuo e a entrega de soluções práticas.
@@ -33,7 +33,7 @@
 
 <br>
 <!-- GithubStats -->
-<div align="center">
+<div>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -49,10 +49,10 @@
 <!-- GIF -->
 <p align="center">
   <img align="center" src="Aquario.gif" alt="Imagem">
-</p>
 
 ##
 ![snake gif](github-contribution-grid-snake-dark.svg)
+</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -60,7 +60,6 @@
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-    
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -79,6 +78,7 @@
     <img align="center" alt="Zabbix" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/zabbix_logo_icon_167937.png">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   </div>
+
 ##
  <div align="center">
   <a href = "mailto:victorgomessc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
