@@ -17,10 +17,11 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   <br>
-  - 🛠 O que me define?
-    ➡︎ Paixão por tecnologia e resolução de problemas.
-    ➡︎ Compromisso com o aprendizado contínuo e a entrega de soluções práticas.
-    ➡︎ Interesse em áreas como desenvolvimento de software, e análise de dados.
+  
+  - 🛠 O que me define?<br>
+➡︎ Paixão por tecnologia e resolução de problemas.<br>
+➡︎ Compromisso com o aprendizado contínuo e a entrega de soluções práticas.<br>
+➡︎ Interesse em áreas como desenvolvimento de software, e análise de dados.
 
   - 🌱 O que estou aprendendo?
     Atualmente, estou aprofundando meus conhecimentos em monitoramento de infraestrutura e ferramentas de observabilidade, além de explorar tecnologias modernas para garantir a eficiência e segurança dos sistemas.
