@@ -23,10 +23,10 @@
 ➡︎ Compromisso com o aprendizado contínuo e a entrega de soluções práticas.<br>
 ➡︎ Interesse em áreas como desenvolvimento de software, e análise de dados.
 
-  - 🌱 O que estou aprendendo?
+  - 🌱 O que estou aprendendo?<br>
     Atualmente, estou aprofundando meus conhecimentos em monitoramento de infraestrutura e ferramentas de observabilidade, além de explorar tecnologias modernas para garantir a eficiência e segurança dos sistemas.
   
-  - 🚀 Minha visão
+  - 🚀 Minha visão<br>
     Acredito no poder da tecnologia para transformar negócios e melhorar a vida das pessoas. Meu objetivo é sempre unir habilidades técnicas e estratégicas para contribuir com soluções inovadoras e de impacto.
   
   - 💡 Sinta-se à vontade para explorar meus projetos!
