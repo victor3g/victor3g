@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ4OGxpY2V4Zm56YmxlOGx5bjB6ZGR4aGZ5Z3l6b3k5bm1ibW1ieiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L1R1TVXRtNmcnMzM6/giphy.gif"  />
+  <img height="150" src="Aquario.gif"  />
 </div>
 
 <h1 align="center">Olá, eu sou o Victor! 👋</h1>
@@ -71,5 +71,5 @@ Tive uma experiência valiosa atuando no **monitoramento de infraestrutura** (Ba
 <br>
 
 <div align="center">
-  <img src="https://github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  ![snake gif](github-contribution-grid-snake-dark.svg)
 </div>
