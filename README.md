@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Olá, eu sou o Victor! 👋</h1>
-<h3 align="center">Full Stack Developer | Infra & Monitoring Enthusiast</h3>
+<h3 align="center">Software Developer | Data Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victorgcavalcante" target="_blank">
@@ -18,45 +18,46 @@
 
 ### 🚀 Sobre Mim
 
-Sou graduando em **Sistemas de Informação** e apaixonado por criar soluções que unem desenvolvimento de software e eficiência de infraestrutura. 
+Sou graduando em **Sistemas de Informação** e estou em transição de carreira para a área de desenvolvimento e dados.
 
-Tenho uma base sólida em **Monitoramento de TI** (Zabbix/Grafana) adquirida no **Banco BRB**, onde aprendi a importância da observabilidade e alta disponibilidade. Atualmente, estou focado em expandir minha carreira como **Desenvolvedor Full Stack**, criando aplicações robustas, escaláveis e com boa experiência de usuário.
+Tive uma experiência valiosa atuando no **monitoramento de infraestrutura** (Banco BRB), onde aprendi na prática sobre alta disponibilidade e comportamento de sistemas em produção. No entanto, minha verdadeira paixão está na construção de soluções: desde a arquitetura do software até a análise de dados para tomada de decisão.
 
-* 🔭 **Atualmente trabalhando com:** Monitoramento de infraestrutura e Observabilidade.
-* 🌱 **Estudando:** Arquitetura de Microsserviços, Next.js e DevOps.
-* ⚡ **Objetivo:** Aplicar meu conhecimento híbrido (Dev + Ops) para entregar soluções completas em grandes projetos de tecnologia.
+* 🎯 **Foco atual:** Desenvolvimento Full Stack e Engenharia de Dados.
+* 🧠 **Diferencial:** Minha bagagem em infraestrutura me permite escrever códigos pensando não apenas na funcionalidade, mas na performance e estabilidade da aplicação.
+* 🌱 **Estudando:** Next.js, modelagem de dados avançada e arquitetura de software.
 
 <br>
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
-**Front-end**
+**Linguagens & Backend**
 <br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-
-**Back-end**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-**Banco de Dados & Infra**
+**Frontend & Web**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+**Dados & Infraestrutura**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-**Observabilidade & Ferramentas**
+**Outras Ferramentas**
 <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <br>
 
