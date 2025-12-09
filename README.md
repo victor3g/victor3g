@@ -71,5 +71,7 @@ Tive uma experiência valiosa atuando no **monitoramento de infraestrutura** (Ba
 <br>
 
 <div align="center">
+  <p>
   ![snake gif](github-contribution-grid-snake-dark.svg)
+  </p>
 </div>
