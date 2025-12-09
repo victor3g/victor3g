@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="Aquario.gif"  />
+  <img height="200" src="Aquario.gif"  />
 </div>
 
 <h1 align="center">Olá, eu sou o Victor! 👋</h1>
@@ -72,9 +72,7 @@ Tive uma experiência valiosa atuando no **monitoramento de infraestrutura** (Ba
 
 <div align="center">
 
-<!-- GIF -->
 <p align="center">
-  <img align="center" src="Aquario.gif" alt="Imagem">
 
 ##
 ![snake gif](github-contribution-grid-snake-dark.svg)
