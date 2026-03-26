@@ -1,93 +1,102 @@
-<div align="center">
-  <img height="300" src="Aquario.gif" />
-</div>
+<!-- HEADER ANIMADO -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header"/>
 
-<h1 align="center">Victor Cavalcante 👋</h1>
-<h3 align="center">Software Developer | Full Stack | Data & Systems</h3>
-
+<!-- TYPING EFFECT -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/victorgcavalcante" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:victorgomessc@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C6FF&size=35&center=true&vCenter=true&width=1000&lines=Victor+Cavalcante;Software+Developer;Full+Stack+%7C+Data+%7C+Systems;Building+scalable+solutions"/>
 </p>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/victorgcavalcante">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:victorgomessc@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I am a **Software Developer** with a degree in **Information Systems**, currently working as a **Junior Developer at São Roque**.
+💻 Software Developer with a degree in **Information Systems**, currently working as a **Junior Developer at São Roque**.
 
-My professional journey started in **infrastructure monitoring (Banco BRB)**, where I developed a strong foundation in **system reliability, observability, and production environments**.  
+I started my career in **infrastructure monitoring (Banco BRB)**, gaining strong expertise in **observability, system reliability, and production environments**.
 
-Today, I apply this background to build **scalable, efficient, and reliable software solutions**, combining development with a deep understanding of how systems behave in real-world scenarios.
+Today, I build software with a focus on:
 
-💡 I believe great software is not only functional — it must be **performant, resilient, and well-architected**.
+- ⚡ Performance  
+- 🧠 Scalability  
+- 🔍 Observability  
+- 🏗️ Clean Architecture  
 
----
-
-## 🎯 Current Focus
-
-- Full Stack Development
-- Software Architecture & Best Practices
-- Data Modeling & Backend Performance
-- Observability & System Reliability
+💡 *I don’t just build systems — I build systems that survive production.*
 
 ---
 
 ## 🧠 Professional Highlights
 
-- 🏦 Experience in **mission-critical environments**
-- ⚙️ Strong knowledge in **monitoring and observability**
-- 🔍 Focus on **performance, scalability, and system behavior**
-- 🔄 Ability to bridge **infrastructure and development**
+- 🏦 Experience in **banking environment (high availability systems)**
+- 📊 Strong background in **Zabbix & Grafana monitoring**
+- 🔄 Bridge between **infrastructure and development**
+- 🚀 Focus on **real-world performance and reliability**
 
 ---
 
-## 💻 Tech Stack
+## ⚙️ Tech Stack
 
-### 🧩 Backend & Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
 ### 🌐 Frontend
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind&theme=dark" />
 
-### 🗄️ Data & Infrastructure
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</td>
 
-### 📊 Observability & Tools
-<img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white">
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<td align="center" width="33%">
 
----
+### 🧩 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php&theme=dark" />
 
-## 📊 GitHub Stats
+</td>
 
-<div align="center">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor3g&theme=city_lights&count_private=true">
-  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor3g&theme=city_lights&count_private=true">
-</div>
+<td align="center" width="33%">
+
+### 🗄️ Data & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,figma&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🐍 Contributions
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor3g&theme=github_dark"/>
+</p>
 
-![snake gif](github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor3g&theme=github_dark"/>
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor3g&theme=github_dark"/>
+</p>
 
-</div>
+---
+
+## 🔥 What I’m Currently Working On
+
+- 🚀 Full Stack Applications
+- 🧠 Data Modeling & Performance Optimization
+- ⚙️ System Observability & Monitoring
+- 🏗️ Scalable Architecture Patterns
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/victor3g/victor3g/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+<!-- FOOTER -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
