@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-💻 Software Developer with a degree in **Information Systems**, currently working as a **Junior Developer at São Roque**.
+💻 Software Developer with a degree in **Information Systems**.
 
 I started my career in **infrastructure monitoring (Banco BRB)**, gaining strong expertise in **observability, system reliability, and production environments**.
 
